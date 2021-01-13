@@ -4,5 +4,5 @@ reddit({
     search:'meme',
     limits: 3
 }).then(res => {
-    console.log(res.data.length);
+    console.log(res);
 })
