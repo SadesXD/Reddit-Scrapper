@@ -1,10 +1,6 @@
 const axios = require("axios")
 const moment = require("moment")
 
-/**
- * 
- * @param {Promise} ok
- */
 function reddit(options){
 
     if(!options){
