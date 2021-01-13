@@ -17,7 +17,8 @@
     "name": "SadesXD"
   },
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "git+https://github.com/SadesXD/Reddit-Scrapper"
   },
   "license": "ISC",
   "dependencies": {
