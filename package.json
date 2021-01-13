@@ -1,0 +1,27 @@
+{
+  "name": "reddit-scrapper",
+  "version": "1.0.0",
+  "description": "Simple npm package for help you to getting some data in reddit app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reddit",
+    "reddit scrapper",
+    "reddit npm",
+    "reddit meme",
+    "reddit api"
+  ],
+  "author": {
+    "name": "SadesXD"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment": "^2.29.1"
+  }
+}
